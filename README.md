@@ -2,7 +2,7 @@
 
 ## Objetivo este projeto
 
-Entender como tecnologias de OCR, Machine Learning e IA Generativa podem contribuir para automatizar a classificação, extração e validação de informações aplicadas na Gestão de Documentos com precisão superior ou equivalente à humana.
+Entender como tecnologias de OCR, Machine Learning e IA Generativa podem contribuir para automatizar a classificação, extração e validação de informações aplicadas na Gestão de Documentos, bem como, identificar as possíveis vantagens ao adotar esse ecossistema.
 
 Para tal finalidade utilizamos as seguintes Fontes:
 <br>
@@ -47,13 +47,11 @@ ________________________________________________________________________________
 
 Uma **skill** é uma habilidade do agente, descrita em um guia passo a passo. O DIO Agent vem com três:
 
-| Skill | Para que serve |
+| Recurso | Assunto |
 |-------|----------------|
 | [Resumo](https://notebook.google.com/notebook/20fb3991-16cc-40fd-8e8e-8c778547a39f/artifact/5eb0bfb8-b370-429f-8ea7-8836ff554a80?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_) | Dominando o Processamento Inteligente de Documentos (IDP) |
-| [Destravar desafio](skills/unblock-challenge/SKILL.md) | Conduz você até a solução de um desafio, sem dar a resposta pronta |
-| [Explicar conceito](skills/explain-concept/SKILL.md) | Explica conceitos de forma didática, com analogias e exemplos |
-
-Você não precisa "chamar" uma skill. O agente percebe o que você precisa e usa a skill certa sozinho.
+| [Fluxo](https://notebook.google.com/notebook/20fb3991-16cc-40fd-8e8e-8c778547a39f/artifact/d45cc14c-088d-44fc-a5ac-2bca9bf87c5e?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)| 7 Etapas do Processamento Inteligente de Documentos (IDP)|
+| [Infográfico](https://notebook.google.com/notebook/20fb3991-16cc-40fd-8e8e-8c778547a39f/artifact/046d4167-79dc-42b8-849f-44200ec14045?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_)| Gestão Inteligente de Documentos IA - Visão Geral|
 
 _________________________________________________________________________________________________________________________________
 
