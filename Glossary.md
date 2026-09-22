@@ -1,6 +1,6 @@
 # Glossário
 
-Termos que aparecem neste projeto, explicados de forma simples.
+Termos que aparecem neste projeto.
 
 ## Acurácia
 
