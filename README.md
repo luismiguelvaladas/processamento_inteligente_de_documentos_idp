@@ -20,7 +20,6 @@ https://www.youtube.com/watch?v=qTkhRbe4QP4
 
 ____________________________________________________________________________________________________________________________
 ## Breve Conceito das Tecnologias Empregadas 
-Para usar o DIO Agent, basta entender duas palavras. As duas estão no [Glossário completo](docs/glossary.md), mas aqui vai a versão rápida:
 
 - **OCR (Reconhecimento Óptico de Caracteres)** é uma tecnologia que converte imagens de texto em dados digitais legíveis e editáveis por computador. O OCR permite transformar documentos físicos, fotos de livros, PDFs digitalizados ou manuscritos em texto que pode ser pesquisado, copiado e editado, eliminando a necessidade de digitação manual e reduzindo erros.
 
