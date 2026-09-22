@@ -29,15 +29,17 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________________________
 
-## 🎯 O que o DIO Agent faz por você
+## Vantagens ao utilizar o Processamento Inteligente de Documentos (IDP)
 
-| Você precisa de... | O DIO Agent... |
+A adoção do Processamento Inteligente de Documentos (IDP) traz ganhos significativos que combinam métricas diretas de desempenho operacional com impactos estratégicos de longo prazo.
+
+| Quantitativas | Qualitativas |
 |--------------------|----------------|
-| Saber por onde começar | Monta um plano de estudos no seu ritmo |
-| Destravar um desafio | Te guia até a solução, sem entregar a resposta pronta |
-| Entender um conceito | Explica de forma simples, com analogias e exemplos |
-
-Ele conhece os formatos da DIO: Bootcamps, Formações, Acelerações, Cursos, English4Tech, Desafios de Código, Desafios de Projeto, Desafios Criativos, Lives e Mentorias. Assim, as recomendações sempre apontam para algo que você já tem na plataforma.
+| Redução de Custos Operacionais | Valorização e Produtividade da Força de Trabalho |
+| Aumento na Precisão dos Dados | Melhoria na Experiência e Satisfação do Cliente|
+| Redução no Tempo de Processamento e SLA | Reforço no Compliance, Segurança e Antifraude |
+| Elevação da Taxa de Processamento Direto (STP)| Tomada de Decisão Assertiva baseada em Dados |
+| Escalabilidade Sem Aumento Proporcional da Equipe | Aprendizado Contínuo e Resiliência dos Processos |
 
 __________________________________________________________________________________________________________________________________
 
