@@ -1,7 +1,7 @@
-# Processamento Inteligente de Doumentos
+# Processamento Inteligente de Doumentos - IDP
 Entender como tecnologias de OCR, Machine Learning e IA Generativa podem contribuir para automatizar a classificação, extração e validação de informações com precisão superior à humana
 ______________________________________________________________________________________________________________________________
-Curadoria de Fontes: 
+Fontes: 
 
 <b>Documentos:</b>
 <br>
