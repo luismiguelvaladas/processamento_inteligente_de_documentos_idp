@@ -43,6 +43,20 @@ A adoção do Processamento Inteligente de Documentos (IDP) traz ganhos signific
 
 __________________________________________________________________________________________________________________________________
 
+## Resultado Final 
+
+Uma **skill** é uma habilidade do agente, descrita em um guia passo a passo. O DIO Agent vem com três:
+
+| Skill | Para que serve |
+|-------|----------------|
+| [Resumo](https://notebook.google.com/notebook/20fb3991-16cc-40fd-8e8e-8c778547a39f/artifact/5eb0bfb8-b370-429f-8ea7-8836ff554a80?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_1&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_1_) | Dominando o Processamento Inteligente de Documentos (IDP) |
+| [Destravar desafio](skills/unblock-challenge/SKILL.md) | Conduz você até a solução de um desafio, sem dar a resposta pronta |
+| [Explicar conceito](skills/explain-concept/SKILL.md) | Explica conceitos de forma didática, com analogias e exemplos |
+
+Você não precisa "chamar" uma skill. O agente percebe o que você precisa e usa a skill certa sozinho.
+
+_________________________________________________________________________________________________________________________________
+
 ## 📖 Glossário rápido
 
 Termos como *agente*, *harness*, *skill* e *prompt* estão explicados com analogias simples no **[Glossário completo](docs/glossary.md)**. Se algum termo soar estranho, comece por lá.
