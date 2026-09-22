@@ -57,4 +57,4 @@ ________________________________________________________________________________
 
 ## 📖 Glossário rápido
 
-Termos como *agente*, *harness*, *skill* e *prompt* estão explicados com analogias simples no **[Glossário completo](glossary.md)**. Se algum termo soar estranho, comece por lá.
+Termos como *agente*, *harness*, *skill* e *prompt* estão explicados com analogias simples no **[Glossário completo](Glossary.md)**. Se algum termo soar estranho, comece por lá.
