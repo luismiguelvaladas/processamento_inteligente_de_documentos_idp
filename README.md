@@ -45,7 +45,8 @@ ________________________________________________________________________________
 
 ## Resultado Final 
 
-Uma **skill** é uma habilidade do agente, descrita em um guia passo a passo. O DIO Agent vem com três:
+Como resultado final apresento abaixo os principais tópicos em formato de relatório (Resumo, Fluxo e Infográfico):<br>
+Fonte: https://notebook.google.com/notebook/20fb3991-16cc-40fd-8e8e-8c778547a39f
 
 | Recurso | Assunto |
 |-------|----------------|
